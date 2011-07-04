@@ -1,0 +1,9 @@
+Wordpress Plugin for Book Authors and Publishers
+
+An Open Source Project from http://www.Pubble.Me/
+
+Goal Functionality:
+
+* Display "Posts" as numbered pages, within chapters, oldest first so they appear in order when being read as a book
+* Create a control panel section in the Wordpress Admin panel
+* When readers are logged in it automatically displays the page where they stopped reading
